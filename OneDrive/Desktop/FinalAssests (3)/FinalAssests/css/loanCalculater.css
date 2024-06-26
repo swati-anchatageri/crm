@@ -1,0 +1,33 @@
+  .mdl-card {
+    margin: 0 auto;
+  }
+
+  .slider-label {
+    color: #9E9E9E;
+  }
+
+  .tool-label {
+    color: #2eca6a;
+    font-size: 24px;
+  }
+
+  .installment-label {
+    color: black;
+    text-align: center;
+    font-size: 2rem;
+  }
+
+  .installment-value span {
+    color: #2eca6a;
+    text-align: center;
+    font-size: 28px;
+  }
+
+  .slider-value {
+    font-weight: bold;
+  }
+
+  .installment-value {
+    text-align: center;
+    font-weight: bold;
+  }

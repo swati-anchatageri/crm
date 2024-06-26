@@ -1,0 +1,23 @@
+[15-Feb-2024 10:51:14 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalp3_assets_user'@'localhost' to database 'assets_global' in /home3/globalp3/public_html/assetsglobal/back.php:8
+Stack trace:
+#0 /home3/globalp3/public_html/assetsglobal/back.php(8): mysqli->__construct('localhost', 'globalp3_assets...', Object(SensitiveParameterValue), 'assets_global')
+#1 {main}
+  thrown in /home3/globalp3/public_html/assetsglobal/back.php on line 8
+[15-Feb-2024 10:58:14 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'globalp3_assets_user'@'localhost' to database 'assets_global' in /home3/globalp3/public_html/assetsglobal/back.php:8
+Stack trace:
+#0 /home3/globalp3/public_html/assetsglobal/back.php(8): mysqli->__construct('localhost', 'globalp3_assets...', Object(SensitiveParameterValue), 'assets_global')
+#1 {main}
+  thrown in /home3/globalp3/public_html/assetsglobal/back.php on line 8
+[15-Feb-2024 11:01:57 America/Boise] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'username' in 'where clause' in /home3/globalp3/public_html/assetsglobal/back.php:17
+Stack trace:
+#0 /home3/globalp3/public_html/assetsglobal/back.php(17): mysqli->query('SELECT * FROM p...')
+#1 {main}
+  thrown in /home3/globalp3/public_html/assetsglobal/back.php on line 17
+
+----------------------------------------------
+
+[17-Feb-2024 04:15:04 America/Boise] PHP Warning:  Undefined array key "comment" in /home3/globalp3/public_html/assetsglobal/contact.php on line 19
+[17-Feb-2024 04:15:57 America/Boise] PHP Warning:  Undefined array key "comment" in /home3/globalp3/public_html/assetsglobal/contact.php on line 19
+[17-Feb-2024 04:16:55 America/Boise] PHP Warning:  Undefined array key "comment" in /home3/globalp3/public_html/assetsglobal/contact.php on line 19
+[17-Feb-2024 04:35:06 America/Boise] PHP Warning:  Undefined array key "comment" in /home3/globalp3/public_html/assetsglobal/contact.php on line 19
+[17-Feb-2024 04:41:34 America/Boise] PHP Warning:  Undefined array key "comment" in /home3/globalp3/public_html/assetsglobal/contact.php on line 19
